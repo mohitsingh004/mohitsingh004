@@ -1,5 +1,5 @@
 <h1 align="center"><strong>Hey there 👋, I'm Mohit Singh</strong></h1>
-<h3 align="center"><strong>🚀 Final Year Engineering Student | 🔐 Cybersecurity Enthusiast | 💡 Tech Creator</strong></h3>
+<h3 align="center">🚀 Final Year Engineering Student | 🔐 Cybersecurity Enthusiast | 🤖 AI/ML Learner | 💡 Tech Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Engineer%20by%20mind%2C%20Creator%20by%20heart;Building%20cool%20stuff%20one%20line%20at%20a%20time;Always%20curious%20%7C%20Always%20learning" alt="Typing SVG" />
@@ -20,10 +20,10 @@
 
 > *Forever a student. Forever curious.*
 
-- 🤖 **Artificial Intelligence** — *Real-world applications, ethical AI, explainability*
-- 🧠 **Machine Learning** — *Supervised/Unsupervised models, feature engineering, model evaluation*
-- 📊 **Data Science** — *Data wrangling, visualization using Pandas, Seaborn, Matplotlib*
-- 🧬 **Deep Learning** — *CNNs, RNNs, Transformers using TensorFlow & PyTorch*
+- 🤖 **Artificial Intelligence** — Real-world applications, ethical AI, explainability  
+- 🧠 **Machine Learning** — Supervised/Unsupervised models, feature engineering, model evaluation  
+- 📊 **Data Science** — Data wrangling, visualization using Pandas, Seaborn, Matplotlib  
+- 🧬 **Deep Learning** — CNNs, RNNs, Transformers using TensorFlow & PyTorch  
 - 🔬 **Current Experiments**:
   - 📉 *Blood test anomaly prediction using ML*
   - 🕵️ *Fraud & loan approval predictor*
@@ -40,32 +40,32 @@
 ### 🧪 **PathoMind** — *AI Pathology Booking System*
 > A full-stack medical system to book appointments, choose services, and view reports through a clean UI.
 
-- 💻 **Tech:** `Django`, `SQLite`, `Bootstrap`, `HTML/CSS`
-- 📲 **Features:** *Responsive design, calendar picker, report viewer*
+- 💻 Built with: `Django`, `SQLite`, `Bootstrap`, `HTML/CSS`
+- 📲 Features: Responsive design, calendar picker, report viewer
 
 ---
 
 ### 📊 **AutoTrader AI** — *Stock Bot + Visual Simulator*
 > Predicts stock trends using real-time ML + market data, simulating trading strategies visually.
 
-- 💻 **Tech:** `Python`, `yFinance`, `NumPy`, `matplotlib`, `pandas`
-- 📈 **Features:** *Visual simulation, real-time fetcher, strategy runner*
+- 💻 Built with: `Python`, `yFinance`, `NumPy`, `matplotlib`, `pandas`
+- 📈 Features: Visual simulation, real-time fetcher, strategy runner
 
 ---
 
 ### 🎧 **Audio Integrity Checker** — *Forensic Audio Tool*
 > Detects tampering in audio using waveform & spectrogram analysis. Perfect for forensic & legal contexts.
 
-- 💻 **Tech:** `Python`, `Librosa`, `SciPy`, `Matplotlib`
-- 🧠 **Features:** *Waveform analyzer, tamper detection, spectrogram visualizer*
+- 💻 Built with: `Python`, `Librosa`, `SciPy`, `Matplotlib`
+- 🧠 Features: Waveform analyzer, tamper detection, spectrogram visualizer
 
 ---
 
 ### 📄 **SmartPDF Extractor** — *AI PDF Text Parser*
 > Extracts structured data from scanned PDFs using Regex and NLP. Works on resumes, invoices, etc.
 
-- 💻 **Tech:** `Python`, `PyMuPDF`, `re`, `NLTK`
-- 📤 **Features:** *Pattern matching, entity extraction, clean text output*
+- 💻 Built with: `Python`, `PyMuPDF`, `re`, `NLTK`
+- 📤 Features: Pattern matching, entity extraction, clean text output
 
 ---
 
