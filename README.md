@@ -9,10 +9,10 @@
 
 ## 🌟 **About Me**
 
-- 🛠️ **I turn coffee ☕ into code.**
-- 🎓 **Final year Engineering student passionate about impactful tech.**
-- 🧠 **Exploring AI, Cybersecurity, Full-Stack, and DevTools.**
-- 💻 **Currently building Django apps, automation tools, and cloud-powered systems.**
+- 🛠️ I turn coffee ☕ into code.
+- 🎓 Final year Engineering student passionate about impactful tech.
+- 🧠 Exploring AI, Cybersecurity, Full-Stack, and DevTools.
+- 💻 Currently building Django apps, automation tools, and cloud-powered systems.
 
 ---
 
@@ -66,6 +66,14 @@
 
 - 💻 Built with: `Python`, `PyMuPDF`, `re`, `NLTK`
 - 📤 Features: Pattern matching, entity extraction, clean text output
+
+---
+
+### 🧠 **RAG-Powered Chatbot** — *Custom QnA AI Using Your Documents*
+> A retrieval-augmented generation (RAG) system that answers user queries using uploaded PDFs or text files. Uses vector embeddings + LLMs for precision.
+
+- 💻 Built with: `Python`, `LangChain`, `ChromaDB`, `OpenAI API`, `Streamlit`
+- 🔍 Features: RAG pipeline, chunking, vector search, PDF loader, real-time chat UI
 
 ---
 
